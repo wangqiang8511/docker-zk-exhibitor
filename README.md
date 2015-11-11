@@ -1,4 +1,4 @@
-# Facebook Presto
+# Zookeeper Exhibitor
 
 Simple docker image for zookeeper with exhibitor enabled.
 
