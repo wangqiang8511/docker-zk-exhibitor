@@ -21,10 +21,12 @@ Using
 # Start one local container
 ./hack/start_standalone_zk_s3.sh
 
-# Start three local containers
+# Start three local containers for testing.
 ./hack/start_resolvable.sh
 ./hack/start_cluster_s3.sh
 ```
+
+**Make sure hostname is resolvable.
 
 # Reference
 
